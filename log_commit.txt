@@ -1,0 +1,198 @@
+commit 0f3d48b4b571425cd1ccd72c83c90cbc3d46b195
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Fri Mar 25 14:26:39 2022 +0100
+
+    add url api pythonanywhere
+
+commit 455d30b27c41f653c1fc2d0c562a880e7440fc33
+Author: ismailazdad <74118071+ismailazdad@users.noreply.github.com>
+Date:   Thu Mar 24 10:26:47 2022 +0100
+
+    Update README.md
+
+commit f99ae928a9d9bd57c933bce65f86f5b6d7b28044
+Author: ismailazdad <74118071+ismailazdad@users.noreply.github.com>
+Date:   Thu Mar 24 10:25:29 2022 +0100
+
+    Update README.md
+
+commit bb602345bc0d171bf0f48977dc8ca0081d1b8fc3
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Wed Mar 23 20:39:21 2022 +0100
+
+    optimise import for pythonanywhere
+
+commit fa911756e856f0d7b19cc7d937dee10763dbff38
+Author: ismailazdad <74118071+ismailazdad@users.noreply.github.com>
+Date:   Wed Mar 23 16:47:17 2022 +0100
+
+    Update README.md
+
+commit 0565b0ddbe4f05926a83923c9d6b67be85559389
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Wed Mar 23 15:25:19 2022 +0100
+
+    refacto
+
+commit 5699447b7811ec9e1d86441cc72c04c1b08b88dd
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Wed Mar 23 13:32:11 2022 +0100
+
+    improve UI
+
+commit 6b48203d24a9341157f7e7c00eeacd292ead0c1f
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 20:42:21 2022 +0100
+
+    remove old footer
+
+commit 9b5f3d3d6804f9f7c4dfc0195ce1ccb52f19ed55
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 20:40:35 2022 +0100
+
+    remove old controller
+
+commit a02b7682216ac0016edda47278a94729d664baf0
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 20:39:48 2022 +0100
+
+    handle ajax response to dom
+
+commit 3a35b93eeeaa0c7227f62b3c48dd46746c209bbb
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 18:50:12 2022 +0100
+
+    refacto controller
+
+commit 6a37e361a11da090dd9c9ae1a4b3dc37303243b6
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 18:38:13 2022 +0100
+
+    refacto service
+
+commit 8b578b86a90aca60520dd6b0bec14e56ff51d762
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 18:23:09 2022 +0100
+
+    refacto extraction and prediction into service
+
+commit d5dbd791a7f34635d227afedb4b76a0fd1f6ac6b
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 14:05:50 2022 +0100
+
+    features join result of two models tfid w2vec
+
+commit bffa0121339942c502cfef18ca5f1cb80a279ca2
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 13:37:24 2022 +0100
+
+    add models
+
+commit beded0c577e7c32160f9ef572caac05d8ead9928
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 13:36:55 2022 +0100
+
+    add word2vec modele deploy
+
+commit 189168df5c619a48aadc657d42cdff75d0b8bde0
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Tue Mar 22 10:52:41 2022 +0100
+
+    add logistic models and preprocessing service
+
+commit f8c5f30fbf126b1f4df768ffabe88126ec98eb17
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 18:01:14 2022 +0100
+
+    add ajax method calling controler
+
+commit 2e2b37a62579b30df5c9b1c1826d151997422058
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 17:07:31 2022 +0100
+
+    add cleaned question to request service
+
+commit 91f2b6547e5b34247a10e472d7371de3c4d2295b
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 17:01:24 2022 +0100
+
+    clean preprocessing pattern
+
+commit 1f7ed98dde60a782504ee534f4ba962b2efd2ba9
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 13:34:51 2022 +0100
+
+    add preprocessing service
+
+commit bba11dfff2f1891ffecffd5b47f797e043005980
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 13:23:55 2022 +0100
+
+    clean projects
+
+commit f2b2b93faf05809b070c7747dcd3d3c95423aea0
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 12:29:56 2022 +0100
+
+    add word2vectors models
+
+commit d632713278331766cb1c5860d4ec89c496d3ad35
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 12:28:44 2022 +0100
+
+    add vectors
+
+commit 9b49138446c1c2fd83683fce586c0c3fd6004e15
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 12:28:05 2022 +0100
+
+    add modele logistic alone
+
+commit 3324a44bd953f5b17827ffea88c2dcf78619982f
+Merge: bca57e8 480fae5
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 12:26:42 2022 +0100
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit bca57e857c8b4e61c2bc569f7e36af4e481d74fc
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 12:26:30 2022 +0100
+
+    add modele logistic alone
+
+commit 480fae505a28d163108b190e39a545c69ebf2beb
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 11:22:08 2022 +0100
+
+    add modele rf
+
+commit 7b76d87524d360828b107949c31960149957796f
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 11:21:26 2022 +0100
+
+    add modele rf
+
+commit 8e1822a4fb70e10e2f9f39c4b3d855ad3ba1c2ee
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 11:07:18 2022 +0100
+
+    add mvc flask server
+
+commit 7e56001100628a5f5e48e1d5013897998c1bc482
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 10:57:38 2022 +0100
+
+    add icon and , html elements and javascript library
+
+commit e168179eeec4202a4c28c1416d01089adbab4d46
+Author: Ismail Azdad <ismail.azdad@adventori.com>
+Date:   Mon Mar 21 10:52:54 2022 +0100
+
+    test commit
+
+commit 3a168d5a98ad50d0c3e5b48552fb9c4cc4204ad5
+Author: ismailazdad <74118071+ismailazdad@users.noreply.github.com>
+Date:   Mon Mar 21 10:25:54 2022 +0100
+
+    Initial commit
